@@ -14,5 +14,8 @@ Some of my interests:
 - Videogames (FPS and RPG's mostly)
 - Fishing (Drop and Deep sea trolling)
 - Cooking
-
+Career Interests:
+- Computer Architectures
+- Circuit Design
+- Some software design
   
