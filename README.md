@@ -5,6 +5,6 @@
 
 ---
 
-![alt text](https://cdn.discordapp.com/attachments/915814188977377335/1200990293231673414/IMG_2849.JPG?ex=65c8305f&is=65b5bb5f&hm=ffac2dd895ce37ba7eb5df441342e79789b8b8d10dd02aabba16e1672122ea28&)
+![alt text](https://cdn.discordapp.com/attachments/915814188977377335/1200994650685706270/IMG_3631.jpg?ex=65c8346e&is=65b5bf6e&hm=50a7448c2c842528c9b917f3509f9da0ad0dd9725a3b1d5202f5107ab4e4ed6c&)
 
 
