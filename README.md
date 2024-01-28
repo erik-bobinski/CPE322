@@ -10,9 +10,9 @@ My two Mini Australian Shepherd puppies: Cali(left) and Duke(right)
 
 Some of my interests:
 - Gym
-- Swimming(I made Junior Olympic times when I was younger!)
-- Videogames(FPS and RPG's mostly)
-- Fishing(Drop and Deep sea trolling)
+- Swimming (I made Junior Olympic times when I was younger!)
+- Videogames (FPS and RPG's mostly)
+- Fishing (Drop and Deep sea trolling)
 - Cooking
 
   
