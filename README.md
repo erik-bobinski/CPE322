@@ -4,7 +4,7 @@
 ## Erik Bobinski
 
 ---
-My two Mini Australian Shepherd puppies: Cali (left) and Duke (right)
+My two Mini Australian Shepherd puppies: *Cali* (left) and *Duke* (right)
 ![alt text](https://cdn.discordapp.com/attachments/915814188977377335/1200994650685706270/IMG_3631.jpg?ex=65c8346e&is=65b5bf6e&hm=50a7448c2c842528c9b917f3509f9da0ad0dd9725a3b1d5202f5107ab4e4ed6c&)
 
 
