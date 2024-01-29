@@ -19,4 +19,20 @@ Career Interests:
 - Computer Architectures
 - Circuit Design
 - Some software design
-  
+
+
+Here's some code I wrote in x86 Assembly:
+' .globl main
+main:
+	mov	$6, %rcx
+	mov	$7, %rdx
+	call	f
+	ret
+
+    .globl f
+f:
+	    leaq (%rcx, %rdx), %rax
+		shr $1, %rax
+
+
+   ret '
