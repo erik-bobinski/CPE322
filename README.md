@@ -22,7 +22,8 @@ Career Interests:
 
 
 Here's some code I wrote in x86 Assembly:
-' .globl main
+```s
+ .globl main
 main:
 	mov	$6, %rcx
 	mov	$7, %rdx
@@ -35,4 +36,4 @@ f:
 		shr $1, %rax
 
 
-   ret '
+   ret ```
