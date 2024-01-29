@@ -16,9 +16,9 @@ Some of my interests:
 - Cooking
 
 Career Interests:
-- Computer Architectures
-- Circuit Design
-- Some software design
+1. Computer Architectures
+2. Circuit Design
+3. Some software design
 
 
 Here's some code I wrote in x86 Assembly:
