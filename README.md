@@ -36,6 +36,7 @@ f:
 		shr $1, %rax
 
 
-   ret ```
+   ret
+```
 
 > Here is a blockquote
