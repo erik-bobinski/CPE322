@@ -1,5 +1,5 @@
 # CPE322-A, 2024S
-*Github Repository*
+*GitHub Repository*
 
 ## Erik Bobinski
 
@@ -41,5 +41,5 @@ f:
    ret
 ```
 
-> Here is a blockquote
+> A quote: "Have no fear of perfection, you'll never reach it" -Salvador Dali
 
