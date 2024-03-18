@@ -2,7 +2,7 @@
 
 
 ## Half Adder
-![ha](file:///Users/erik/CPE322/Lab1/ha.jpg)
+![alt text](file:///Users/erik/CPE322/Lab1/ha.jpg)
 
 ## D Flip Flop
-![dff](file:///Users/erik/CPE322/Lab1/dff.jpg)
+![alt text](file:///Users/erik/CPE322/Lab1/dff.jpg)
