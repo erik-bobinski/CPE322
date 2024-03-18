@@ -2,7 +2,7 @@
 
 
 ## Half Adder
-![Half Adder](/images/ha.jpg)
+![Half Adder](/Images/ha.jpg)
 
 ## D Flip Flop
-![D Flip Flop](/images/dff.jpg)
+![D Flip Flop](/Images/dff.jpg)
