@@ -1,1 +1,1 @@
-Images file CPE322
+Image files for CPE322 Labs
