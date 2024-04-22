@@ -4,4 +4,4 @@
 ![Lab7img](/Images/Lab7_img.png)
 
 ## ThingSpeak API Graphs:
-![](/Images/Lab7_img2.png)
+![](/Images/Lab7_img2.jpg)
