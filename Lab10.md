@@ -1,4 +1,4 @@
-# CPE322 Lab9
+# CPE322 Lab10
 
 ## Image Output:
 ![](/Images/Lab10_img.png)
